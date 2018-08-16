@@ -1,0 +1,9 @@
+import '../../components/z.css';
+import '../../components/font.css';
+import './1st.css';
+import './2nd.css';
+import '../../components/1.css';
+import '../../components/2.css';
+import '../../components/3.css';
+import '../../components/4.css';
+import '../../components/5.css';
